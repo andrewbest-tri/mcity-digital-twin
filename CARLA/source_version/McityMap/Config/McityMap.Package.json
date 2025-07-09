@@ -1,0 +1,10 @@
+{
+    "maps": [
+      {
+        "path": "/Game/McityMap",
+        "name": "McityMap_Main",
+        "use_carla_materials": false
+      }
+    ],
+    "props": []
+}
