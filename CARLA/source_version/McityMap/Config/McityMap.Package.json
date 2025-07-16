@@ -3,7 +3,44 @@
       {
         "path": "/Game/McityMap",
         "name": "McityMap_Main",
-        "use_carla_materials": false
+        "use_carla_materials": true
+      },
+      { "path": "/Game/McityMap/Sublevels/",
+        "name": "CarlaEnvLighting.umap",
+        "use_carla_materials": true
+      },
+      { "path": "/Game/McityMap/Sublevels/",
+        "name": "CarlaSigns.umap",
+        "use_carla_materials": true
+      },
+      { "path": "/Game/McityMap/Sublevels/",
+        "name": "CarlaTrafficLights.umap",
+        "use_carla_materials": true
+      },
+      { "path": "/Game/McityMap/Sublevels/",
+        "name": "McityMap_OpenDrive.umap",
+        "use_carla_materials": true
+      },
+
+      { "path": "/Game/McityMap/Sublevels/",
+        "name": "McityMap_StaticProps.umap",
+        "use_carla_materials": true
+      },
+      { "path": "/Game/McityMap/Sublevels/",
+        "name": "McityMap_StaticTrafficLights.umap",
+        "use_carla_materials": true
+      },
+      { "path": "/Game/McityMap/Sublevels/",
+        "name": "McityMap_StreetLights.umap",
+        "use_carla_materials": true
+      },
+      { "path": "/Game/McityMap/Sublevels/",
+        "name": "McityMap_Terrain.umap",
+        "use_carla_materials": true
+      },
+      { "path": "/Game/McityMap/Sublevels/",
+        "name": "UnrealLights.umap",
+        "use_carla_materials": true
       }
     ],
     "props": []
