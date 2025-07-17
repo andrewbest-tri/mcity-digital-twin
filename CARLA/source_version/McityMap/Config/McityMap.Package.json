@@ -5,41 +5,41 @@
         "name": "McityMap_Main",
         "use_carla_materials": true
       },
-      { "path": "/Game/McityMap/Sublevels/",
-        "name": "CarlaEnvLighting.umap",
+      { "path": "/Game/McityMap",
+        "name": "Sublevels/CarlaEnvLighting",
         "use_carla_materials": true
       },
-      { "path": "/Game/McityMap/Sublevels/",
-        "name": "CarlaSigns.umap",
+      { "path": "/Game/McityMap",
+        "name": "Sublevels/CarlaSigns",
         "use_carla_materials": true
       },
-      { "path": "/Game/McityMap/Sublevels/",
-        "name": "CarlaTrafficLights.umap",
+      { "path": "/Game/McityMap",
+        "name": "Sublevels/CarlaTrafficLights",
         "use_carla_materials": true
       },
-      { "path": "/Game/McityMap/Sublevels/",
-        "name": "McityMap_OpenDrive.umap",
+      { "path": "/Game/McityMap",
+        "name": "Sublevels/McityMap_OpenDrive",
         "use_carla_materials": true
       },
 
-      { "path": "/Game/McityMap/Sublevels/",
-        "name": "McityMap_StaticProps.umap",
+      { "path": "/Game/McityMap",
+        "name": "Sublevels/McityMap_StaticProps",
         "use_carla_materials": true
       },
-      { "path": "/Game/McityMap/Sublevels/",
-        "name": "McityMap_StaticTrafficLights.umap",
+      { "path": "/Game/McityMap",
+        "name": "Sublevels/McityMap_StaticTrafficLights",
         "use_carla_materials": true
       },
-      { "path": "/Game/McityMap/Sublevels/",
-        "name": "McityMap_StreetLights.umap",
+      { "path": "/Game/McityMap",
+        "name": "Sublevels/McityMap_StreetLights",
         "use_carla_materials": true
       },
-      { "path": "/Game/McityMap/Sublevels/",
-        "name": "McityMap_Terrain.umap",
+      { "path": "/Game/McityMap",
+        "name": "Sublevels/McityMap_Terrain",
         "use_carla_materials": true
       },
-      { "path": "/Game/McityMap/Sublevels/",
-        "name": "UnrealLights.umap",
+      { "path": "/Game/McityMap",
+        "name": "Sublevels/UnrealLights",
         "use_carla_materials": true
       }
     ],
